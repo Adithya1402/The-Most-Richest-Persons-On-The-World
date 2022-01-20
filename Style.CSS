@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background: linear-gradient(to bottom, #0033cc 0%, #00ffff 100%);
+    
+}
+#Jeff_Bezos{
+    width: 500px;
+    border-width: medium;
+}
+#Elon_Musk{
+    width:500px;
+    border-width: medium;
+}
+#Bill_Gates{
+    width:500px;
+    border-width: medium;
+}
+#Bernard_Arnault{
+    width:500px;
+    border-width: medium;
+}
+#Mukesh_Ambani{
+    width:500px;
+    border-width: medium;
+}
+
